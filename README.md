@@ -47,4 +47,4 @@ When running on GPGPU-Sim, use the following command instead:
 ```
 make run_sim
 ```
-# CA_Assignment03
+
