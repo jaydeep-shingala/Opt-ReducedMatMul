@@ -1,5 +1,4 @@
-# HPCA Assignment
-Optimize reducing matrix multiplication using hardware counters.
+# Optimize reducing matrix multiplication using hardware counters.
 Contained are two folders:
 * PartA: Contains setup for single-threaded and multi-threaded program.
 * PartB: Contains setup for GPU program.
